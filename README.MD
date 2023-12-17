@@ -1,0 +1,1 @@
+I used gemini model to try capabilities especially on code writing. I implemented it with python IDE to streamlit interface. Currently I am working on conversational history.
