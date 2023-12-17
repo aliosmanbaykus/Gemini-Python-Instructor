@@ -1,1 +1,1 @@
-I used gemini model to try capabilities especially on code writing. I implemented it with python IDE to streamlit interface. Currently I am working on conversational history.
+I utilized the Gemini model to explore its capabilities, particularly in code writing. I integrated it with a Python IDE and a Streamlit interface. Currently, I am working on a conversational history feature.
